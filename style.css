@@ -22,4 +22,6 @@ section{
  background-color: var(--branco);
  border:solid 5px crimson;
 border-radius: 30px;
+margin: 10px;
+padding: 10px
 }
