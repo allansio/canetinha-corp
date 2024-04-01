@@ -20,5 +20,5 @@ header{
 section{
     display: flex;
  background-color: var(--branco);
- border: radius 5px crimson;
+ border: solid 5px crimson;
 }
