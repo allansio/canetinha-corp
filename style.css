@@ -21,4 +21,5 @@ section{
     display: flex;
  background-color: var(--branco);
  border: solid 5px crimson;
+border-radius: 30px;
 }
