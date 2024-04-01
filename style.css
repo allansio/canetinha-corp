@@ -20,6 +20,6 @@ header{
 section{
     display: flex;
  background-color: var(--branco);
- border: 20px crimson;
+ border: 5px crimson;
 border-radius: 30px;
 }
