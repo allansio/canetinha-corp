@@ -1,6 +1,6 @@
 :root{
     --caneta:#326DB2;
-    
+    --branco:#ffffff;
 }
 
 
@@ -19,5 +19,5 @@ header{
 
 section{
     display: flex;
-    background-color: aqua;
+ background-color: var(--branco);
 }
