@@ -59,3 +59,11 @@ font-style: jomhuria;}
 .texto{
     font-size: 50px;
 }
+.texto-equipe{
+    font-size: 50px;
+}
+.título{
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+}
