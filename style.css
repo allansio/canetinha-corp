@@ -18,7 +18,9 @@ header{
     align-items: center;
     justify-content: space-around;
 }
-
+.img-caneta{
+    width: 20%;
+}
 
 
 #equipe{
